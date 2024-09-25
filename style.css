@@ -8,12 +8,21 @@ body {
 header {
     border-bottom: solid 5px rgb(89, 115, 228);
     padding: 10px;
-    font-size: 20px;
+    font-size: 30px;
     text-decoration: white;
+}
+
+h1 {
+    font-size: 15px;
+}
+
+h2 {
+    font-size: 15px;
 }
 
 p {
     color: white;
+    font-size: 5px;
 }
 
 .itl {
