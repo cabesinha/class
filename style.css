@@ -1,7 +1,6 @@
 body {
     color: white;
     background: rgb(8, 6, 20);
-    margin: 5px;
     text-align: left;
 }
 
@@ -9,6 +8,7 @@ header {
     border-bottom: solid 5px rgb(89, 115, 228);
     padding: 10px;
     font-size: 30px;
+    margin: 5px;
     text-decoration: white;
 }
 
