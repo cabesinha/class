@@ -6,11 +6,10 @@ body {
 }
 
 header {
-    color: white;
     border-bottom: solid 5px rgb(89, 115, 228);
     padding: 10px;
     font-size: 20px;
-    text-decoration: none;
+    text-decoration: white;
 }
 
 p {
