@@ -2,19 +2,40 @@ body {
     color: white;
     background: rgb(8, 6, 20);
     text-align: left;
-    margin: 5px;
+    margin: 10px;
+    font-family: "Quicksand", sans-serif;
 }
 
 header {
     border-bottom: solid 5px rgb(89, 115, 228);
-    padding: 10px;
-    font-size: 30px;
-    margin: 0px;
-    text-decoration: white;
+    padding: 20px;
+    font-size: 32px;
+    margin: 10px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
 }
 
-.chamada-texto {
-    margin-right: 5%;
+h1 {
+    font-size:250%;
+    padding: 2px;
+    margin-top: 5px;
+}
+
+h3 {
+    font-size: 180%;
+}
+
+h2 {
+    font-size: 180%
+}
+
+li {
+    font-size: 170%;
+}
+
+p{
+    font-size: 150px;
 }
 
 .itl {
