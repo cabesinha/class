@@ -13,6 +13,10 @@ header {
     text-decoration: white;
 }
 
+.chamada-texto {
+    margin-right: 5%;
+}
+
 .itl {
     font-style: italic;
 }
