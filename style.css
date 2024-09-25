@@ -14,23 +14,17 @@ header {
 
 h1 {
     font-size: 15px;
-    margin: 20px;
 }
 
 h2 {
     font-size: 15px;
-    margin: 20px;
 }
 
 p {
     color: white;
     font-size: 5px;
-    margin: 20px;
 }
 
-img {
-    margin: 20px;
-}
 
 .itl {
     font-style: italic;
