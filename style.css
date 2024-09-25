@@ -21,7 +21,10 @@ h2 {
 }
 
 p {
-    color: white;
+    font-size: 5px;
+}
+
+li {
     font-size: 5px;
 }
 
