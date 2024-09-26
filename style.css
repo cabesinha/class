@@ -8,7 +8,7 @@ body {
 
 header {
     border-bottom: solid 5px rgb(89, 115, 228);
-    padding: 0px;
+    padding: 20px;
     font-size: 32px;
     margin: 0px;
     display: flex;
