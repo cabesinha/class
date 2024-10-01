@@ -16,11 +16,6 @@ header {
     flex-direction: row;
 }
 
-img{
-    width: 50px;
-    height: 100px;
-}
-
 h1 {
     font-size:500%;
     padding: 10px;
@@ -47,5 +42,6 @@ p{
 }
 
 .icon {
-    width: 30%;
+    width: 50%;
+    height: 100%;
 }
