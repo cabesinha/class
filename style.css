@@ -23,7 +23,8 @@ header {
     border: solid 5px rgb(90, 90, 90);
     padding: 20px;
     font-size: 12px;
-    margin: 200px;
+    margin-left: 200px;
+    margin-right: 200px;
     display: flex;
     justify-content: space-around;
     flex-direction: row;
@@ -62,5 +63,5 @@ p {
 }
 
 .frisk {
-    height: 200px;
+    height: 400px;
 }
