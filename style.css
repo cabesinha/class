@@ -3,7 +3,8 @@ body {
     background: rgb(46, 42, 65);
     text-align: left;
     margin: 10px;
-    font-family: "Pixelify Sans", sans-serif;
+    font-family: "Press Start 2P", system-ui;
+    font-style: normal;
 }
 
 header {
