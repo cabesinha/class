@@ -54,8 +54,8 @@ li {
 
 p {
     font-size: 25px;
-    padding: 10px;
-    margin: 40px;
+    margin: 20px;
+    offset-distance: 10px;
 }
 
 .utitle {
