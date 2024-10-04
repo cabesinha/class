@@ -54,8 +54,8 @@ li {
 
 p {
     font-size: 25px;
-    margin: 20px;
-    line-height-step: 10px;
+    margin: 10px;
+    line-height: 30px;
 }
 
 .utitle {
